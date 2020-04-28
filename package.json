@@ -1,0 +1,20 @@
+{
+  "name": "khanhnguyen3759.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "5-es2015.ccd809bad410725fd458.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo Build Now!!!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khanhnguyen3759/khanhnguyen3759.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khanhnguyen3759/khanhnguyen3759.github.io/issues"
+  },
+  "homepage": "https://github.com/khanhnguyen3759/khanhnguyen3759.github.io#readme"
+}
